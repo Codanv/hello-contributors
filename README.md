@@ -1,0 +1,2 @@
+# hello-contributors
+learn contributing
